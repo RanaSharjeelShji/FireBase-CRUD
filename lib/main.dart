@@ -1,4 +1,3 @@
-import 'package:codered/Login.dart';
 import 'package:codered/firebase_options.dart';
 import 'package:codered/home_screen.dart';
 import 'package:firebase_core/firebase_core.dart';

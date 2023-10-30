@@ -76,7 +76,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                     });
                                     print(subscriber);
                                     db.collection('sharjeel').doc(documentSnapshot.id).update({
-                                      'subscribe': subscriber,
+                                      'subscribe': updateSubscriber,
                                     });
                                      ScaffoldMessenger.of(context).showSnackBar(
                                      const SnackBar(content: Text("Unsubscribed"), backgroundColor: Colors.amber,));
