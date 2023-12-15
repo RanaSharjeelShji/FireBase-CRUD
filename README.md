@@ -1,6 +1,7 @@
 # codered
 
-A new Flutter project.
+Watch Explined Tutorial On Youtube.
+https://youtu.be/o9os788lFTo
 
 ## Getting Started
 
